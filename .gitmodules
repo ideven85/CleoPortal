@@ -1,0 +1,3 @@
+[submodule "spring-6-webapp"]
+	path = spring-6-webapp
+	url = https://github.com/springframeworkguru/spring-6-webapp
